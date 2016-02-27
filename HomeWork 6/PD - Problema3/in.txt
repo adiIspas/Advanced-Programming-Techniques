@@ -1,0 +1,7 @@
+GATC
+TCAG
+4
+spatiu 2
+AC 1
+GT 1
+rest 3
